@@ -6,4 +6,4 @@ The application is run by executing index.js (node index.js)
 
 THIS IS AN EXPERIMENT AND THEREFORE FAR FROM PERFECT !
 
-Barry
+useful for sensors based project
